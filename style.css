@@ -20,6 +20,7 @@ img.qr-code {
 header {
     font-size: 24px;
     font-weight: 700;
+    color: hsl(218, 44%, 22%);
     text-align: center;
 }
 
