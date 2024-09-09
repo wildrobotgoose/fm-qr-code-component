@@ -10,7 +10,6 @@ body {
 .main {
     width: min-content;
     padding: 15px;
-    border: 2px solid black;
     border-radius: 15px;
     background-color: hsl(0, 0%, 100%);
     font-family: "Outfit", sans-serif;
