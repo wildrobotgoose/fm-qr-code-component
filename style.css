@@ -7,10 +7,22 @@ body {
     margin: 0 auto;
     border: 2px solid black;
     background-color: hsl(0, 0%, 100%);
+    font-family: "Outfit", sans-serif;
 }
 
 img.qr-code {
     width: 300px;
+}
+
+header {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.instruction {
+    font-size: 18px;
+    font-weight: 400;
+    color: hsl(216, 15%, 48%);
 }
 
 .attribution {
