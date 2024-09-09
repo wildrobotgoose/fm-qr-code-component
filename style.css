@@ -1,7 +1,12 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
 .main {
     width: min-content;
     margin: 0 auto;
     border: 2px solid black;
+    background-color: hsl(0, 0%, 100%);
 }
 
 img.qr-code {
