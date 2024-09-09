@@ -1,7 +1,11 @@
 .main {
-    width: max-content;
+    width: min-content;
     margin: 0 auto;
     border: 2px solid black;
+}
+
+img.qr-code {
+    width: 300px;
 }
 
 .attribution {
